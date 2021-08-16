@@ -1,0 +1,5 @@
+node_modules/
+overage/
+build/
+.DS_Store
+.env
